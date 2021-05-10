@@ -14,9 +14,9 @@
 	<name>1st_HW_89022</name>
 	<description>1st homework TQS from 89022</description>
 	<properties>
-  		<sonar.projectKey>joaopvasconcelos99_TQS_HW_1</sonar.projectKey>
-  		<sonar.organization>joaopvasconcelos99</sonar.organization>
-  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.projectKey>joaopvasconcelos99_TQS_HW_1</sonar.projectKey>
+		<sonar.organization>joaopvasconcelos99</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
