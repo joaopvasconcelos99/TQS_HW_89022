@@ -9,6 +9,9 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
+    defaults: 
+      run:
+        working-directory: 1st_HW_89022
     steps:
       - uses: actions/checkout@v2
         with:
